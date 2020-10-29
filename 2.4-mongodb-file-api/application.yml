@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://<username>:<password>@ieti-dzkk5.mongodb.net/test?retryWrites=true&w=majority
+      uri: mongodb+srv://usuario:12345@cluster0.wdnql.mongodb.net/spring-boot-mongodb?retryWrites=true&w=majority
